@@ -1,3 +1,5 @@
+[![Astro Deployment](https://img.shields.io/badge/Deployed%20on-Astro.io-blue)](https://your-astro-deployment-url.com)
+
 ### Project Overview: Airflow ETL Pipeline with Postgres and API Integration
 This project involves creating an ETL (Extract, Transform, Load) pipeline using Apache Airflow. The pipeline extracts data from an external API (in this case, NASA's Astronomy Picture of the Day (APOD) API), transforms the data, and loads it into a Postgres database. The entire workflow is orchestrated by Airflow, a platform that allows scheduling, monitoring, and managing workflows.
 
